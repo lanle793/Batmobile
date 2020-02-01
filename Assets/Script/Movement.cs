@@ -67,3 +67,5 @@ public class Movement : MonoBehaviour
         trackpad = TrackpadAction.GetAxis(Hand);
     }
 }
+
+// Adapted from: https://wirewhiz.com/walking-in-vr/
