@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.batmobile.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "C:\\Users\\labadmin\\Desktop\\Unity Projects\\Batmobile\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "C:\\Lan\\Unity Projects\\Batmobile\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "Batmobile [Testing]"
